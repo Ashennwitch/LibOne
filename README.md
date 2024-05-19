@@ -26,7 +26,7 @@ LibOne is a web application that allows users to manage their personal book coll
 
 ## Getting Started
 
-To run the Book Collection Manager on your local machine, follow these steps:
+To run LibOne on your local machine, follow these steps:
 
 1. Clone the repository
 2. Navigate to the backend directory and install the dependencies for the backend:
